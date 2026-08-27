@@ -1,4 +1,7 @@
 # Linux Command Lab
+## Linux Practice
+
+This section contains examples and notes for practicing Linux commands.
 
 A hands-on collection of Linux commands, troubleshooting techniques, and shell scripting examples for QA Automation and DevOps.
 
